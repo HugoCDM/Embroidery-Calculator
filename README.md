@@ -1,4 +1,4 @@
-# Embroidery Calculator
+wwwwwww# Embroidery Calculator
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p> A Tkinter-based application for calculating embroidery costs based on quantity and type of logo. This project was developed for a Brazilian uniform company</p>
@@ -48,7 +48,7 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser # Then type
 - Calls the combos() function getting the selected combobox option
 - Shows the corresponding value on <b>*label_result_text_area*</b> after clicked 
 
-### clean()
+### clear()
 - Clears the entry area
 
 
