@@ -53,11 +53,8 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser # Then type
 
 
 ## 🌅 Image section
-![embroidery_calculator](https://github.com/user-attachments/assets/19f5ace3-3c3b-4ed2-8096-773eb55c6836)
 
-![embroidery_calculator_5items](https://github.com/user-attachments/assets/33b72e4c-ce91-4987-baa4-f06e23943ad7)
-
-![embroidery_calculator_12items](https://github.com/user-attachments/assets/c2d9cd09-2a40-49c2-acc3-f37403abd3e4)
+![embroidery](https://github.com/user-attachments/assets/34de65d9-9436-46e7-b8eb-c2d2a0ff88f9)
 
 ### *Made by [Hugo Mello](https://github.com/HugoCDM)*
 
