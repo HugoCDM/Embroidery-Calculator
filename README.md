@@ -34,7 +34,7 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser # Then type
 ### 3. Buttons and Functionalities
 #### 3.1 Enviar Button
 - Once you click on enviar button, the magic happens. It calls the send() function which has some ifs. Depending on your quantity of items it has different outputs.
-- Clears the entry area calling the function clean().
+- Clears the entry area calling the function clear().
 
 ## ƒ Functions
 ### main()
