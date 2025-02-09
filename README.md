@@ -54,7 +54,7 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser # Then type
 
 ## 🌅 Image section
 
-![embroidery](https://github.com/user-attachments/assets/34de65d9-9436-46e7-b8eb-c2d2a0ff88f9)
+![embroidery2](https://github.com/user-attachments/assets/21bc00da-4a4e-488e-bf51-a0684b1a9570)
 
 ### *Made by [Hugo Mello](https://github.com/HugoCDM)*
 
