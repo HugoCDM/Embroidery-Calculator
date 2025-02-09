@@ -1,4 +1,4 @@
-wwwwwww# Embroidery Calculator
+# Embroidery Calculator
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p> A Tkinter-based application for calculating embroidery costs based on quantity and type of logo. This project was developed for a Brazilian uniform company</p>
